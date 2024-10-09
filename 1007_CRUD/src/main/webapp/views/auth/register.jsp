@@ -1,9 +1,4 @@
-<%--&lt;%&ndash;--%>
-<%--  Created by IntelliJ IDEA.--%>
-<%--  User: benpham--%>
-<%--  Date: 16/09/2024--%>
-<%--  Time: 16.06--%>
-<%--  To change this template use File | Settings | File Templates.--%>
+
 
 <html>
 <head>

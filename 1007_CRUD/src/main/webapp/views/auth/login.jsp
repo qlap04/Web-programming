@@ -1,9 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: benpham
-  Date: 16/09/2024
-  Time: 16.06
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="core" uri="jakarta.tags.core" %>
 <%@ taglib prefix="fmt" uri="jakarta.tags.fmt" %>
